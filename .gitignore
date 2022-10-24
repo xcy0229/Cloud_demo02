@@ -1,0 +1,6 @@
+# Project exclude paths
+/customer_server/target/
+/gateway_server/target/
+/nacos_config/target/
+/order_server/target/
+/product_server/target/
